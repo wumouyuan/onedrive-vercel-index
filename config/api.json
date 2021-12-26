@@ -1,7 +1,7 @@
 {
   "clientId": "5df848a7-a608-45a4-9f26-15e79e1620cb",
   "redirectUri": "http://localhost",
-  "base": "/uploads",
+  "base": "/onelndex",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
   "driveApi": "https://graph.microsoft.com/v1.0/me/drive"
 }
